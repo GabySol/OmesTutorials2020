@@ -8,4 +8,4 @@ Video: https://youtu.be/7AY_Xgehyks
 
 Veamos un ejemplo de los resultados del RECONOCIMIENTO DE EMOCIONES:
 
-![](lapizVirtual.gif)
+![](ResultadoReconocimientoEmociones.gif)
