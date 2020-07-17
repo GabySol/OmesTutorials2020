@@ -8,4 +8,4 @@ Video: https://youtu.be/KlVSqdF0EWs
 
 Veamos un ejemplo de los resultados:
 
-![](ResultadoReconocimientoEmociones.gif)
+![](lapizVirtual.gif)
